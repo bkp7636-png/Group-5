@@ -1,14 +1,14 @@
 # Group 5
 
-intro-bipin.txt
+bipin
 
-intro-manish.txt
+manish
 
-intro-akash.txt
+akash
 
-intro-kapil.txt
+kapil
 
-intro-sujit.txt
+sujit
 
 # Discription
 Hi, I'm Bipin! I'm the Project Manager.
